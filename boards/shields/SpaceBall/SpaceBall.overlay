@@ -1,4 +1,4 @@
-#include "roBa.dtsi"
+#include "SpaceBall.dtsi"
 
 / {
     trackball_listener {
